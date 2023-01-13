@@ -4,7 +4,7 @@ Analyzing superstore dataset and finding key insights
 Objective: To build an interactive dashboard using PowerBi desktop application and finding key insights from the dataset
 
 About the dataset:
-This [data]() we downloaded form Google and it has 3 tables such as Orders, People and returns. This data is about details of various products of different categories such as furniture,office supplies and technology where each category has many sub-category products. In orders table we have information like Order date, Ship date, Customer name, region, country, sales and many more. In returns table we have information such as which order is returned from which region. And in people table we have name of the person and their region.
+This [data](https://github.com/karthikdoijode/SuperStoreInteractiveDashboard-UsingPowerBI/blob/main/global_superstore_2016.xlsx) we downloaded form Google and it has 3 tables such as Orders, People and returns. This data is about details of various products of different categories such as furniture,office supplies and technology where each category has many sub-category products. In orders table we have information like Order date, Ship date, Customer name, region, country, sales and many more. In returns table we have information such as which order is returned from which region. And in people table we have name of the person and their region.
 
 Tasks perfomed on this data:
 - 1.Connecting to database: first we imported this excel data to PowerBi desktop
@@ -15,7 +15,5 @@ Tasks perfomed on this data:
 
 
 Conclusions:
-- Through slicer concept we can get information on sales on every individual year.
-- Reported sales on each segment and on each market type.
-- Reported top 5 products which are profitable and 5 products which are making loss to the store.
-- Reported top 10 customers which are contributing to maximum profit.
+- Built an interactive dashoard with key insights such as top 5 profitable products, top 5 products which are making a loss, top 10 customers who are contributing to maximum profit and introduced slicer for each individual year to make it more interactive
+- Reported sales on each segment and on each market type
