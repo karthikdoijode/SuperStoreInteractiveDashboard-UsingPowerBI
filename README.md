@@ -15,5 +15,5 @@ Tasks perfomed on this data:
 
 
 Conclusions:
-- Built an interactive dashoard with key insights such as top 5 profitable products, top 5 products which are making a loss, top 10 customers who are contributing to maximum profit and introduced slicer for each individual year to make it more interactive
+- Built an [interactive dashoard](https://github.com/karthikdoijode/SuperStoreInteractiveDashboard-UsingPowerBI/blob/main/SuperStore.pbix) with key insights such as top 5 profitable products, top 5 products which are making a loss, top 10 customers who are contributing to maximum profit and introduced slicer for each individual year to make it more interactive
 - Reported sales on each segment and on each market type
